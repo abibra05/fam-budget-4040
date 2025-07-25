@@ -1,0 +1,6 @@
+{
+  "name": "Family Budget Manager",
+  "description": "A personal finance and budgeting app for families to manage income, track expenses, set financial goals, and get AI-powered advice. Supports PDF reports and optional voice narration.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
